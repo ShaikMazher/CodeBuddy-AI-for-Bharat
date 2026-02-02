@@ -21,3 +21,10 @@ It bridges the gap between writing code and understanding concepts, specifically
 - **Backend:** AWS Lambda (Python) & Amazon API Gateway
 - **Database:** Amazon DynamoDB
 - **Frontend:** React.js
+## 📄 Documentation
+- [View Requirements](./requirements.md)
+- [View System Design](./design.md)
+- [View Project Presentation](./Idea%20Submission%20_%20AWS%20AI%20for%20Bharat%20Hackathon.pdf)
+
+---
+*Submitted for the AI for Bharat Hackathon 2026.*
